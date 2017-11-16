@@ -1,3 +1,23 @@
+v1.3.0
+
+15-11-2017
+
+* Pass options from index.js to the spellChecker
+* Fix Jekyll front matter being spellchecked if it contained a regular expression (#107)
+* Fix content between Jekyll front matter and in-content headings not being spellchecked
+
+v1.2.0
+
+12-11-2017
+
+* Only ignore test between two horizontal rules if it looks like Jekyll front matter
+
+v1.1.0
+
+12-11-2017
+
+ * Allow markdown relative spelling files
+
 v1.0.0
 
 05-08-2017
